@@ -15,8 +15,9 @@ A back end application for e-commerce websites that allows user to create, view,
 npm i
 
 ## Usage
-Login to MySql. Create the database by running CREATE DATABASE ecommerce_db;
-Sign out of MySql. Seed the database by running npm run seed in your terminal. View the walkthrough video here: https://drive.google.com/file/d/1bJ8WUiAcopo2OmGe3AkYSDoGm9FG3rZJ/view
+Login to MySql. Create the database by running CREATE DATABASE ecommerce_db; <br>
+Sign out of MySql. Seed the database by running npm run seed in your terminal. <br>
+View the walkthrough video here: https://drive.google.com/file/d/1bJ8WUiAcopo2OmGe3AkYSDoGm9FG3rZJ/view
 
 
 ## Credits
